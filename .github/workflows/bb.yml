@@ -9,7 +9,7 @@ on:
 
 jobs:
   Set-repos:
-    name: "🐂 Parse repos.json"
+    name: "🐂 Parse repo2.json"
     runs-on: ubuntu-latest
     outputs:
       repos: ${{ steps.generate-matrix.outputs.repos }}
