@@ -1,7 +1,7 @@
 name: "Build kernels"
 
 env:
-  CONFIGURATION: "repos.json"
+  CONFIGURATION: "repo2.json"
   OUT_DIR: "out"
 
 on:
